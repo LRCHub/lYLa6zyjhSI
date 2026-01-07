@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "怪獣の花唄",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-01-07T06:41:55.396521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_怪獣の花唄_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怪獣の花唄 - replica -",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_怪獣の花唄_-_replica_-_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "怪獣の花唄 - Kaiju no Hanauta",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/03_怪獣の花唄_-_Kaiju_no_Hanauta_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "怪獣の花唄 - replica - - Kaiju no Hanauta - replica -",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_怪獣の花唄_-_replica_-_-_Kaiju_no_Hanauta_-_replica_-_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "怪獣の花唄 (怪兽之歌，如花散落)",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_怪獣の花唄_(怪兽之歌,如花散落)_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/06_怪獣の花唄_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "怪獣の花唄 -replica-",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/07_怪獣の花唄_-replica-_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/08_怪獣の花唄_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "怪獣の花唄 - replica - / Kaiju no Hanauta",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/09_怪獣の花唄_-_replica_-___Kaiju_no_Hanauta_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "怪獣の花唄",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/10_怪獣の花唄_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "怪獣の花唄 (Cover)",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/11_怪獣の花唄_(Cover)_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "怪獣の花唄",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/12_怪獣の花唄_Yuu..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Backlight 「怪獣の花唄」 - replica -",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/13_Backlight_「怪獣の花唄」_-_replica_-_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪獣の花唄",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_怪獣の花唄_Vaundy.txt"
+    }
+  ]
+}
